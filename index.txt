@@ -1,3 +1,5 @@
 codigo da pagina principal...
 
 login
+
+inclusão galeria de fotos
